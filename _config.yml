@@ -37,8 +37,8 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "matt.tucker14@gmail.com"
-  github: "https://github.com/mattbtucker"
-  linkedin: "https://www.linkedin.com/in/matthew-tucker-4b67a148"
+  github: mattbtucker
+  linkedin: matthew-tucker-4b67a148
 #  facebook: deanattali 
 #  twitter: daattali
 #  patreon: DeanAttali
